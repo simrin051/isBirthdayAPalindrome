@@ -1,0 +1,26 @@
+body
+{
+    border-radius: 2rem;
+    font-family: cursive;
+}
+
+main
+{
+    color: aqua;
+    background-color: #8F00FF;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    height: 90vh;
+    text-align: center;
+    border-radius: 1rem;
+    padding-top: 2rem;
+    font-family: cursive;
+}
+
+#show-btn
+{
+    background-color: aqua;
+    padding:0.5rem;
+    border:0.5rem;
+}
